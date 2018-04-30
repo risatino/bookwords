@@ -1,8 +1,5 @@
 #### Book Words
-
-* This is an intro app to get you started writing Haskell! For Fun!
-
-* Install Haskell from here: http://docs.haskellstack.org/en/stable/README/#how-to-install
+Install Haskell from here: http://docs.haskellstack.org/en/stable/README/#how-to-install
 
 #### instructions:
 
